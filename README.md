@@ -1,4 +1,3 @@
-# ide-project
-# ide-project
-# gracelcai.github.io
-# career-launch-group-13
+# Exercise ML Model
+## Description
+This is a model that analyzes a given video of someone doing exercise and determines if the exercise form is correct. We chose this idea because we are all interested in computer vision and this project will help us gain experience in the area. The target audience is both people who already go to the gym/do the exercises and people who have no experience doing the exercises. With most jobs requiring people to sit at a desk for hours at a time, studies show that poor posture can lead to weakened shoulder stability, a weaker core, and poor spinal strength, all of which can be remedied with exercise (Bremner 2021). Building a model that corrects a person’s exercise form ensures that people get the most out of the exercise and could make newcomers more comfortable with starting to go to the gym/exercise since that is often intimidating. Further bad form/posture wastes energy, can cause injury, limits our capabilities, and hits the wrong muscles hence a person can spend months working out and getting no visible results (Sylvie 2021). Additionally, people of low socioeconomic status often don’t have access to a personal trainer to help them as they get started which can cost as much as $60-$70 per hour (Bolt 2022). This prevents them from entering the gym so this model would work toward bridging this economic divide. 
